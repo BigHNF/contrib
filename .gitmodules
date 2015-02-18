@@ -64,3 +64,6 @@
 [submodule "plugins/couchbase/boundary-plugin-couchbase"]
 	path = plugins/couchbase/boundary-plugin-couchbase
 	url = git@github.com:BigHNF/boundary-plugin-couchbase
+[submodule "plugins/tomcat/boundary-plugin-apache-tomcat"]
+	path = plugins/tomcat/boundary-plugin-apache-tomcat
+	url = git@github.com:BigHNF/boundary-plugin-apache-tomcat
