@@ -64,3 +64,6 @@
 [submodule "plugins/plugins/boundary-plugin-couchbase"]
 	path = plugins/plugins/boundary-plugin-couchbase
 	url = git@github.com:BigHNF/boundary-plugin-couchbase
+[submodule "plugins/couchbase/boundary-plugin-couchbase"]
+	path = plugins/couchbase/boundary-plugin-couchbase
+	url = git@github.com:BigHNF/boundary-plugin-couchbase
