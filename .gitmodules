@@ -73,3 +73,6 @@
 [submodule "plugins/boundary-plugin-cloudstack"]
 	path = plugins/boundary-plugin-cloudstack
 	url = git@github.com:BigHNF/boundary-plugin-cloudstack
+[submodule "plugins/boundary-plugin-docker"]
+	path = plugins/boundary-plugin-docker
+	url = git@github.com:BigHNF/boundary-plugin-docker
