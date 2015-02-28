@@ -61,18 +61,24 @@
 [submodule "plugins/couchdb"]
 	path = plugins/couchdb
 	url = https://github.com/boundary/boundary-plugin-couchdb
-[submodule "plugins/couchbase/boundary-plugin-couchbase"]
-	path = plugins/couchbase/boundary-plugin-couchbase
-	url = git@github.com:BigHNF/boundary-plugin-couchbase
-[submodule "plugins/tomcat/boundary-plugin-apache-tomcat"]
-	path = plugins/tomcat/boundary-plugin-apache-tomcat
-	url = git@github.com:BigHNF/boundary-plugin-apache-tomcat
-[submodule "plugins/boundary-plugin-iis"]
-	path = plugins/boundary-plugin-iis
+[submodule "plugins/iis"]
+	path = plugins/iis
 	url = git@github.com:BigHNF/boundary-plugin-iis
-[submodule "plugins/boundary-plugin-cloudstack"]
-	path = plugins/boundary-plugin-cloudstack
+[submodule "plugins/cloudstack"]
+	path = plugins/cloudstack
 	url = git@github.com:BigHNF/boundary-plugin-cloudstack
-[submodule "plugins/boundary-plugin-docker"]
-	path = plugins/boundary-plugin-docker
+[submodule "plugins/couchbase"]
+	path = plugins/couchbase
+	url = git@github.com:BigHNF/boundary-plugin-couchbase
+[submodule "plugins/apache-tomcat"]
+	path = plugins/apache-tomcat
+	url = git@github.com:BigHNF/boundary-plugin-apache-tomcat
+[submodule "plugins/docker"]
+	path = plugins/docker
 	url = git@github.com:BigHNF/boundary-plugin-docker
+[submodule "plugins/SOLR"]
+	path = plugins/SOLR
+	url = git@github.com:BigHNF/boundary-plugin-solr
+[submodule "plugins/zookeeper"]
+	path = plugins/zookeeper
+	url = git@github.com:BigHNF/boundary-plugin-zookeeper
