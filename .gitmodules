@@ -88,3 +88,6 @@
 [submodule "plugins/wmi"]
 	path = plugins/wmi
 	url = git@github.com:BigHNF/boundary-plugin-wmi
+[submodule "plugins/storm"]
+	path = plugins/storm
+	url = git@github.com:BigHNF/boundary-plugin-storm
