@@ -85,3 +85,6 @@
 [submodule "plugins/spark"]
 	path = plugins/spark
 	url = git@github.com:BigHNF/boundary-plugin-spark
+[submodule "plugins/wmi"]
+	path = plugins/wmi
+	url = git@github.com:BigHNF/boundary-plugin-wmi
