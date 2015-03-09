@@ -82,3 +82,6 @@
 [submodule "plugins/zookeeper"]
 	path = plugins/zookeeper
 	url = git@github.com:BigHNF/boundary-plugin-zookeeper
+[submodule "plugins/spark"]
+	path = plugins/spark
+	url = git@github.com:BigHNF/boundary-plugin-spark
